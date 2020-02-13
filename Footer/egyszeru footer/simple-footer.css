@@ -1,0 +1,11 @@
+footer {
+  background: yellow;
+  height: 8rem;
+  text-align: center;
+  display: table;
+  width: 100vw;
+  background: url('https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png') repeat center;
+  padding: 1rem;
+  font-family: 'Arial', sans-serif;
+  font-size: .875rem;
+}
